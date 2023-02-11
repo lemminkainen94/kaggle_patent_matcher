@@ -1,37 +1,37 @@
-id,anchor,target,context
-4112d61851461f60,opc drum,inorganic photoconductor drum,G02
-09e418c93a776564,adjust gas flow,altering gas flow,F23
-36baf228038e314b,lower trunnion,lower locating,B60
-1f37ead645e7f0c8,cap component,upper portion,D06
-71a5b6ad068d531f,neural stimulation,artificial neural network,H04
-474c874d0c07bd21,dry corn,dry corn starch,C12
-442c114ed5c4e3c9,tunneling capacitor,capacitor housing,G11
-b8ae62ea5e1d8bdb,angular contact bearing,contact therapy radiation,B23
-faaddaf8fcba8a3f,produce liquid hydrocarbons,produce a treated stream,C10
-ae0262c02566d2ce,diesel fuel tank,diesel fuel tanks,F02
-a8808e31641e856d,chemical activity,dielectric characteristics,B01
-16ae4b99d3601e60,transmit to platform,direct receiving,H04
-25c555ca3d5a2092,oil tankers,oil carriers,B63
-5203a36c501f1b7c,generate in layer,generate by layer,G02
-b9fdc772bb8fd61c,slip segment,slip portion,B22
-7aa5908a77a7ec24,el display,illumination,G02
-d19ef3979396d47e,overflow device,oil filler,E04
-fd83613b7843f5e1,beam traveling direction,concrete beam,H05
-2a619016908bfa45,el display,electroluminescent,C23
-733979d75f59770d,equipment unit,power detection,H02
-6546846df17f9800,halocarbyl,halogen addition reaction,C07
-3ff0e7a35015be69,perfluoroalkyl group,hydroxy,A63
-12ca31f018a2e2b9,speed control means,control loop,G05
-03ba802ed4029e4d,arm design,steel plate,F16
-c404f8b378cbb008,hybrid bearing,bearing system,F04
-78243984c02a72e4,end pins,end days,A44
-de51114bc0faec3e,organic starting,organic farming,B61
-7e3aff857f056bf9,make of slabs,making cake,E04
-26c3c6dc6174b589,seal teeth,teeth whitening,F01
-b892011ab2e2cabc,carry by platform,carry on platform,B60
-8247ff562ca185cc,polls,pooling device,B21
-c057aecbba832387,upper clamp arm,end visual,A61
-9f2279ce667b21dc,clocked storage,clocked storage device,G01
-b9ea2b06a878df6f,coupling factor,turns impedance,G01
-79795133c30ef097,different conductivity,carrier polarity,H03
-25522ee5411e63e9,hybrid bearing,corrosion resistant,F16
+id,anchor,target,context,context_text
+4112d61851461f60,opc drum,inorganic photoconductor drum,G02,optics
+09e418c93a776564,adjust gas flow,altering gas flow,F23,combustion apparatus; combustion processes
+36baf228038e314b,lower trunnion,lower locating,B60,vehicles in general
+1f37ead645e7f0c8,cap component,upper portion,D06,treatment of textiles or the like; laundering; flexible materials not otherwise provided for
+71a5b6ad068d531f,neural stimulation,artificial neural network,H04,electric communication technique
+474c874d0c07bd21,dry corn,dry corn starch,C12,biochemistry; beer; spirits; wine; vinegar; microbiology; enzymology; mutation or genetic engineering
+442c114ed5c4e3c9,tunneling capacitor,capacitor housing,G11,information storage
+b8ae62ea5e1d8bdb,angular contact bearing,contact therapy radiation,B23,machine tools; metal-working not otherwise provided for
+faaddaf8fcba8a3f,produce liquid hydrocarbons,produce a treated stream,C10,"petroleum, gas or coke industries; technical gases containing carbon monoxide; fuels; lubricants; peat"
+ae0262c02566d2ce,diesel fuel tank,diesel fuel tanks,F02,combustion engines; hot-gas or combustion-product engine plants
+a8808e31641e856d,chemical activity,dielectric characteristics,B01,physical or chemical processes or apparatus in general
+16ae4b99d3601e60,transmit to platform,direct receiving,H04,electric communication technique
+25c555ca3d5a2092,oil tankers,oil carriers,B63,ships or other waterborne vessels; related equipment
+5203a36c501f1b7c,generate in layer,generate by layer,G02,optics
+b9fdc772bb8fd61c,slip segment,slip portion,B22,casting; powder metallurgy
+7aa5908a77a7ec24,el display,illumination,G02,optics
+d19ef3979396d47e,overflow device,oil filler,E04,building
+fd83613b7843f5e1,beam traveling direction,concrete beam,H05,electric techniques not otherwise provided for
+2a619016908bfa45,el display,electroluminescent,C23,"coating metallic material; coating material with metallic material; chemical surface treatment; diffusion treatment of metallic material; coating by vacuum evaporation, by sputtering, by ion implantation or by chemical vapour deposition, in general; inhibiting corrosion of metallic material or incrustation in general"
+733979d75f59770d,equipment unit,power detection,H02,generation; conversion or distribution of electric power
+6546846df17f9800,halocarbyl,halogen addition reaction,C07,organic chemistry
+3ff0e7a35015be69,perfluoroalkyl group,hydroxy,A63,sports; games; amusements
+12ca31f018a2e2b9,speed control means,control loop,G05,controlling; regulating
+03ba802ed4029e4d,arm design,steel plate,F16,engineering elements and units; general measures for producing and maintaining effective functioning of machines or installations; thermal insulation in general
+c404f8b378cbb008,hybrid bearing,bearing system,F04,positive - displacement machines for liquids; pumps for liquids or elastic fluids
+78243984c02a72e4,end pins,end days,A44,haberdashery; jewellery
+de51114bc0faec3e,organic starting,organic farming,B61,railways
+7e3aff857f056bf9,make of slabs,making cake,E04,building
+26c3c6dc6174b589,seal teeth,teeth whitening,F01,machines or engines in general; engine plants in general; steam engines
+b892011ab2e2cabc,carry by platform,carry on platform,B60,vehicles in general
+8247ff562ca185cc,polls,pooling device,B21,mechanical metal-working without essentially removing material; punching metal
+c057aecbba832387,upper clamp arm,end visual,A61,medical or veterinary science; hygiene
+9f2279ce667b21dc,clocked storage,clocked storage device,G01,measuring; testing
+b9ea2b06a878df6f,coupling factor,turns impedance,G01,measuring; testing
+79795133c30ef097,different conductivity,carrier polarity,H03,basic electronic circuitry
+25522ee5411e63e9,hybrid bearing,corrosion resistant,F16,engineering elements and units; general measures for producing and maintaining effective functioning of machines or installations; thermal insulation in general
